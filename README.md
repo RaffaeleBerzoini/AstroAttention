@@ -1,4 +1,4 @@
-# E-health 2022 project - Group 09
+# AstroAttention - A Stroop Effect 3D game for android
 
 ### Developers
 
